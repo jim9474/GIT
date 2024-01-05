@@ -2,6 +2,6 @@ package git;
 
 public class GIT {
 	public static void main(String[] args) {
-		System.out.println("ฑ๊");
+		System.out.println("ฑ๊วิ");
 	}
 }
